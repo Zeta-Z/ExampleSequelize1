@@ -8,12 +8,7 @@ frameworkVersion: '3'
 provider:
   name: aws
   runtime: nodejs14.x
-  environment: 
-    DB_NAME: PortalPruebasRH
-    DB_USER: PortalPruebasAdmin
-    DB_PASSWORD: P0rt4lPru3b4sAdm1n2022#
-    DB_HOST: innovation-dev-port-pruebas-aurora-psql.cluster-cjfwghw6rsy6.us-east-1.rds.amazonaws.com
-    DB_PORT: 5432
+
 
 plugins:
   - serverless-offline
