@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "Auto2022",
-    "database": "sequelizeExample",
+    "username": "???s",
+    "password": "???",
+    "database": "???",
     "port": 5432,
     "host": "localhost",
     "dialect": "postgres"
